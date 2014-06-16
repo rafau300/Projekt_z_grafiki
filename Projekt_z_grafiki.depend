@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1386878922 source:c:\users\rafal\codeblocks\projekt_z_grafiki\main.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<allegro.h>
+	<winalleg.h>
+
